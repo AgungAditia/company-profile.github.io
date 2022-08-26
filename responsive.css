@@ -57,6 +57,7 @@
 @media screen and (max-width: 576px) {
   .judul h1 {
     font-size: 30px;
+    text-align: center;
   }
   .card-judul {
     width: 300px;
